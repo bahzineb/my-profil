@@ -1,0 +1,35 @@
+h1 {
+	font-size: 25px;
+	color: rgb(10, 10,10);
+}	
+h2 {
+	font-size: 25px;
+	color:  #F0F;
+	border : 2px solid black;
+	margin : 15px;
+	text-align : center 
+
+}
+.coordonnees {
+	color:  blue;
+}
+.rs {
+	color: orange;
+}
+
+img {
+	width: 50px;
+}	
+
+.boite {
+	font-size: 50px;
+	color : black;
+}
+
+.capitalize {
+	text-transforma: capitalize;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
